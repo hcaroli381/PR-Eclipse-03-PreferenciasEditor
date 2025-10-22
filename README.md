@@ -25,5 +25,27 @@ Al tenerlo a 0 tenemos una cadencia de escritura más natural y fluida, sin ver 
 
 ---
 
-**4. colour Changing**
+**4. Colour changing**  
+
+Tener un buen contraste en el código nos permitirá mejorar su legibilidad, importante para las personas que tengan que trabajar con él o incluso para nosotros cuando haya pasado un tiempo.
+
+---
+
+**5. Mark ocurrences**  
+
+Pues podria decirse que mark ocurrences es algo menos serio, para resaltar de forma más superficial y de manera automatica, mientras que Ctrl + Shift + U hace una busqueda mas profunda pero a su vez más lenta y en todo el proyecto al completo. Tienen contextos diferentes en los que usarse, según nos hagan falta.
+
+---
+
+**6. Autocompletado**  
+
+Esta herramienta nos quita muchisimo trabajo, ademas el cerrar las llaves quita confusiones y errores de sintaxis que sobre todo pueden ser un gran problema cuanto más largo es el código y existen anidaciones.
+
+---
+
+**7. Templates**
+
+Java tiene opciones en preferences para gestionar las templates, editarlas y añadir las nuestras propias, que nos ayudan a escribir el codigo repetitivo de manera mas eficiente y ademas ahorrarnos los errores de sintaxis
+
+.
  
